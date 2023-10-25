@@ -1,4 +1,4 @@
-//Macro to analise FRET ration on Cassilda Pereira images
+//Macro to analise FRET ratio on Cassilda Pereira images
 //Paula Sampaio
 //ALM i3S
 //v.6
