@@ -1,5 +1,5 @@
-//Macro to analise FRET ration on Cassilda images
-//©Paula Sampaio
+//Macro to analise FRET ration on Cassilda Pereira images
+//Paula Sampaio
 //ALM i3S
 //v.6
 //2020
